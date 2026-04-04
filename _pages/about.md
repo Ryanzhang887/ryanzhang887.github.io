@@ -30,7 +30,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 I am **Yiran Zhang** (张贻然), a senior undergraduate student at **Tsinghua University**.  
-My current research interests lie in **optimization** and **deep learning theory**, and I am fortunate to be advised by Prof. **[Simon Shaolei Du](https://simonshaoleidu.com/)** and Prof. **[Kaifeng Lyu](https://kaifeng.ac/)**.
+My current research interests lie in **optimization** and **deep learning**, and I am fortunate to be advised by Prof. **[Simon Shaolei Du](https://simonshaoleidu.com/)** and Prof. **[Kaifeng Lyu](https://kaifeng.ac/)**.
 
 Earlier in my undergraduate journey, I also worked extensively in **theoretical computer science**, where I was fortunate to be advised by Prof. **[Jian Li](https://people.iiis.tsinghua.edu.cn/~jianli/)** and Prof. **[Nicole Wein](https://eecs.engin.umich.edu/people/wein-nicole/)**.
 
