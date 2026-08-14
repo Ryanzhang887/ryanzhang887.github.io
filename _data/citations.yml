@@ -1,10 +1,10 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-08-14'
 papers:
   yRlOkY0AAAAJ:9yKSN-GCB0IC:
     citations: 3
-    title: Convergence Dynamics of Over-Parameterized Score Matching for a Single Gaussian
-    year: '2025'
+    title: Convergence dynamics of over-parameterized score matching for a single gaussian
+    year: '2026'
   yRlOkY0AAAAJ:d1gkVwhDpl0C:
     citations: 0
     title: A Polynomial-Time Algorithm for the Next-to-Shortest Path Problem on Positively Weighted Directed Graphs
@@ -15,5 +15,5 @@ papers:
     year: '2025'
   yRlOkY0AAAAJ:u5HHmVD_uO8C:
     citations: 2
-    title: Adaptivity Gaps for Stochastic Probing with Subadditive Functions
+    title: Adaptivity gaps for stochastic probing with subadditive functions
     year: '2025'
