@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Undergraduate Student, Tsinghua University
+subtitle: 1st Year Ph.D. Student in EECS, UC Berkeley
 
 profile:
   align: right
@@ -29,9 +29,6 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am **Yiran Zhang** (张贻然), a senior undergraduate student at **Tsinghua University**.  
-My current research interests lie in **optimization** and **deep learning**, and I am fortunate to be advised by Prof. **[Simon Shaolei Du](https://simonshaoleidu.com/)** and Prof. **[Kaifeng Lyu](https://kaifeng.ac/)**.
+I am **Yiran Zhang** (张贻然), a 1st year PhD student at **UC Berkeley** advised by Prof. **[Jason D. Lee](https://jasondlee88.github.io/)** and Prof. **[Song Mei](https://www.stat.berkeley.edu/~songmei/)**. My current research interests lie in **deep learning theory** and **large language models**.
 
-Earlier in my undergraduate journey, I also worked extensively in **theoretical computer science**, where I was fortunate to be advised by Prof. **[Jian Li](https://people.iiis.tsinghua.edu.cn/~jianli/)** and Prof. **[Nicole Wein](https://eecs.engin.umich.edu/people/wein-nicole/)**.
-
-My long-term goal is to develop theoretical principles that help explain the success of deep learning and use these insights to guide the design of scalable and more powerful learning systems.
+Prior to that, I graduated from Tsinghua University. During my undergraduate study, I was fortunate to be advised by Prof. **[Simon Shaolei Du](https://simonshaoleidu.com/)**, Prof. **[Kaifeng Lyu](https://kaifeng.ac/)**, Prof. **[Jian Li](https://people.iiis.tsinghua.edu.cn/~jianli/)** and Prof. **[Nicole Wein](https://eecs.engin.umich.edu/people/wein-nicole/)**.
