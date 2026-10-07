@@ -8,8 +8,8 @@
       "institution": "University of California, Berkeley",
       "location": "Berkeley, CA, USA",
       "area": "Electrical Engineering and Computer Sciences",
-      "studyType": "PhD",
-      "startDate": "2026",
+      "studyType": "EECS PhD student",
+      "startDate": "2026-08",
       "courses": ["Advisors: Jason D. Lee and Song Mei"]
     },
     {
@@ -56,7 +56,7 @@
       "publisher": "NeurIPS 2026 (accepted)",
       "releaseDate": "2026",
       "url": "https://arxiv.org/abs/2607.16072",
-      "summary": "Haodong Wen, Yiran Zhang, Yingfa Chen, Kaifeng Lyu."
+      "summary": "Haodong Wen*, Yiran Zhang*, Yingfa Chen*, Kaifeng Lyu. * Equal contribution."
     },
     {
       "name": "Is √d Separation Necessary for Gradient EM to Learn Gaussian Mixtures in High Dimensions?",
