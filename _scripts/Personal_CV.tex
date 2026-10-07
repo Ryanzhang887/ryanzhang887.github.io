@@ -1,0 +1,71 @@
+% Build from the repository root:
+% tectonic --outdir assets/pdf _scripts/Personal_CV.tex
+\documentclass[10pt,a4paper]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage[hidelinks]{hyperref}
+
+\hypersetup{pdftitle={Yiran Zhang -- Curriculum Vitae},pdfauthor={Yiran Zhang}}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{3pt}
+\titleformat{\section}{\large\bfseries}{}{0pt}{}[\titlerule]
+\titlespacing*{\section}{0pt}{18pt}{7pt}
+\newcommand{\publication}[1]{\item #1}
+
+\begin{document}
+
+\begin{center}
+  {\Large Yiran Zhang}\\[3pt]
+  Email: \href{mailto:zhangyir@berkeley.edu}{\texttt{zhangyir@berkeley.edu}}\\
+  Phone: (+86) 158-2185-2355
+\end{center}
+
+\section*{Education}
+\textbf{PhD, EECS, University of California, Berkeley}\hfill\textit{2026 -- Present}\\
+Advisors: Jason D. Lee and Song Mei
+
+\textbf{BS, Institute for Interdisciplinary Information, Tsinghua University}\hfill\textit{2022 -- 2026}\\
+GPA: 3.9/4.0
+
+\section*{Publications}
+(Authors listed alphabetically for papers marked with *.)
+\begin{enumerate}[label={[\arabic*]},leftmargin=0pt,itemindent=\parindent,labelwidth=0pt,labelsep=3pt,align=left,itemsep=6pt,topsep=2pt,parsep=0pt]
+  \publication{\textbf{Yiran Zhang}, Mo Zhou, Weihang Xu, Maryam Fazel, Simon S. Du.
+    \href{https://arxiv.org/abs/2610.07551}{\textit{Is $\sqrt{d}$ Separation Necessary for Gradient EM to Learn Gaussian Mixtures in High Dimensions?}}
+    \textit{NeurIPS 2026} (accepted).}
+
+  \publication{Haodong Wen, \textbf{Yiran Zhang}, Yingfa Chen, Kaifeng Lyu.
+    \href{https://arxiv.org/abs/2607.16072}{\textit{Frontier Language Models Struggle to Copy: Text Can Be Better Viewed in 2D.}}
+    \textit{NeurIPS 2026} (accepted).}
+
+  \publication{* Kuowen Chen, Nicole Wein, \textbf{Yiran Zhang}.
+    \href{https://arxiv.org/abs/2511.04345}{\textit{A Polynomial-Time Algorithm for the Next-to-Shortest Path Problem on Positively Weighted Directed Graphs.}}
+    \textit{FOCS 2026} (accepted).}
+
+  \publication{\textbf{Yiran Zhang}, Weihang Xu, Mo Zhou, Maryam Fazel, Simon Shaolei Du.
+    \href{https://arxiv.org/abs/2511.22069}{\textit{Convergence Dynamics of Over-Parameterized Score Matching for a Single Gaussian.}}
+    In \textit{ICLR 2026}.}
+
+  \publication{* Jian Li, Yinchen Liu, \textbf{Yiran Zhang}.
+    \href{https://arxiv.org/abs/2504.15547}{\textit{Adaptivity Gaps for Stochastic Probing with Subadditive Functions.}}
+    In \textit{FOCS 2025}.}
+
+  \publication{* Kuowen Chen, Jian Li, Yuval Rabani, \textbf{Yiran Zhang}.
+    \href{https://arxiv.org/abs/2504.13489}{\textit{New Results on a General Class of Minimum Norm Optimization Problems.}}
+    In \textit{ICALP 2025}.}
+\end{enumerate}
+
+\section*{Skills}
+\textbf{Technical:} Python, C/C++, LaTeX, Matlab.\\
+\textbf{Mathematical:} Probability, Measure Theory, Statistics, Linear Algebra, Abstract Algebra, Numerical Analysis.
+
+\section*{Awards and Honors}
+\textbf{International Mathematical Olympiad:} Gold Medal (perfect score)\hfill 2022\\
+\textbf{Yau Mathematical Competition for Undergraduates:} Team Merit Award\hfill 2024\\
+\textbf{Academic Excellence Scholarship,} Tsinghua University\hfill 2024\\
+\textbf{Yao Award,} Tsinghua University: Bronze Medal (top 9 in Yao Class)\hfill 2025\\
+\textbf{Outstanding Innovation Scholarship,} Tsinghua University\hfill 2025
+
+\end{document}
